@@ -10,4 +10,6 @@ typedef struct {
     bool message_ok;
 }NEO_6M_HandleTypeDef;
 
+void neo6m_encode(NEO_6M_HandleTypeDef* gps);
+
 #endif
