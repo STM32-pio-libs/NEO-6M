@@ -1,0 +1,23 @@
+{
+  "name": "NEO-6M",
+  "version": "1.0.0",
+  "description": "TinyGPS-style NEO-6M parser for STM32 with interrupt-driven UART receive support",
+  "keywords": "stm32, gps, neo-6m, nmea, uart",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/STM32-pio-libs/NEO-6M"
+  },
+  "authors": [
+    {
+      "name": "Anurag Kumar Singh",
+      "email": "anurag3301.0x0@gmail.com",
+      "url": "https://github.com/anurag3301",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/STM32-pio-libs",
+  "dependencies": {},
+  "frameworks": "stm32cube",
+  "platforms": "ststm32"
+}
